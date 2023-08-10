@@ -19,3 +19,4 @@ def game():
     else:
         print("Invalid input")
 game()
+print(2)
